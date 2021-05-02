@@ -1,0 +1,6 @@
+C:\Proyecto Vestite\Vestite.UI\Vestite.DAL\bin\Debug\Vestite.DAL.dll
+C:\Proyecto Vestite\Vestite.UI\Vestite.DAL\bin\Debug\Vestite.DAL.pdb
+C:\Proyecto Vestite\Vestite.UI\Vestite.DAL\obj\Debug\Vestite.DAL.csprojAssemblyReference.cache
+C:\Proyecto Vestite\Vestite.UI\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CoreCompileInputs.cache
+C:\Proyecto Vestite\Vestite.UI\Vestite.DAL\obj\Debug\Vestite.DAL.dll
+C:\Proyecto Vestite\Vestite.UI\Vestite.DAL\obj\Debug\Vestite.DAL.pdb
