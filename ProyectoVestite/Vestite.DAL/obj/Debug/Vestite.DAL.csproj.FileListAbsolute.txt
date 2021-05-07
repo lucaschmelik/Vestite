@@ -1,0 +1,9 @@
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.DAL.dll
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.DAL.pdb
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.BE.dll
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.BE.pdb
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csprojAssemblyReference.cache
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CopyComplete
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.dll
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.pdb
