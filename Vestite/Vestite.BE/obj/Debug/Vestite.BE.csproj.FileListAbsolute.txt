@@ -1,6 +1,0 @@
-C:\Proyecto Vestite\Vestite.UI\Vestite.BE\bin\Debug\Vestite.BE.dll
-C:\Proyecto Vestite\Vestite.UI\Vestite.BE\bin\Debug\Vestite.BE.pdb
-C:\Proyecto Vestite\Vestite.UI\Vestite.BE\obj\Debug\Vestite.BE.csprojAssemblyReference.cache
-C:\Proyecto Vestite\Vestite.UI\Vestite.BE\obj\Debug\Vestite.BE.csproj.CoreCompileInputs.cache
-C:\Proyecto Vestite\Vestite.UI\Vestite.BE\obj\Debug\Vestite.BE.dll
-C:\Proyecto Vestite\Vestite.UI\Vestite.BE\obj\Debug\Vestite.BE.pdb
