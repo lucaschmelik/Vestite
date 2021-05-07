@@ -1,0 +1,5 @@
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\bin\Debug\Vestite.BE.dll
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\bin\Debug\Vestite.BE.pdb
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.dll
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.pdb

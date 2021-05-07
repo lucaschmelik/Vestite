@@ -1,0 +1,9 @@
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.Servicios.dll
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.Servicios.pdb
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.BE.dll
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.BE.pdb
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.csprojAssemblyReference.cache
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.csproj.CopyComplete
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.dll
+C:\Users\Pato\Desktop\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.pdb
