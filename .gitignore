@@ -11,3 +11,8 @@ ProyectoVestite/Vestite.UI/obj/Debug/Vestite.UI.csproj.FileListAbsolute.txt
 ProyectoVestite/Vestite.UI/obj/Debug/Vestite.UI.csprojAssemblyReference.cache
 ProyectoVestite/Vestite.UI/obj/Debug/Vestite.UI.dll
 ProyectoVestite/Vestite.UI/obj/Debug/Vestite.UI.pdb
+ProyectoVestite/Vestite.UI/bin/Vestite.UI.dll
+ProyectoVestite/.vs/ProyectoVestite/v16/.suo
+*.dll
+*.pdb
+*.cache
