@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
@@ -607,7 +607,7 @@ footer {
     .nav-menu-ul {
         width: 80%;
         display: flex;
-        justify-content: flex-end;
+        justify-content: left;
         overflow: visible;
         margin: 0;
         margin-right: 3rem;
