@@ -5,13 +5,13 @@
         <link rel="stylesheet" href="css/bulma.min.css">
         <link rel="stylesheet" href="css/material-design-iconic-font.css">
         <link rel="stylesheet" href="css/styles.css">
-        <!-- Barra de navegación -->
+                    <!-- Barra de navegación -->
         <header>
             <nav class="navbar-top">
-                <ul class="navbar-top-ul">
+             <ul class="navbar-top-ul">
                     <li class="navbar-top-item">
                         <a href="login.html" class="navbar-top-links">Registro</a>
-                    </li>
+                  </li>
                     <li class="navbar-top-item">
                         <a href="login.html" class="navbar-top-links">Iniciar sesión</a>
                     </li>
@@ -26,7 +26,7 @@
             <nav class="navbar">
                 <header class="nabvar-mobile is-size-5-mobile">
                     <a class="navbar-mobile-link has-text-white" href="#" id="btn-mobile"><i class="zmdi zmdi-menu"></i></a>
-                    <a class="navbar-mobile-link has-text-white" href="index.html">Avenue Fashion</a>
+                    <a class="navbar-mobile-link has-text-white" href="index.html">Vestite</a>
                     <a class="navbar-mobile-link has-text-white" href="#"><i class="zmdi zmdi-shopping-cart"></i> Vacio</a>
                 </header>
                 <nav class="nav-menu" id="mySidenav">
@@ -34,10 +34,10 @@
                         <div class="form-group-container">
                             <span class="form-group-icon"><i class="zmdi zmdi-search"></i></span>
                             <input type="text" class="form-group-input" placeholder="Buscar...">
-                        </div>
+                         </div>
                     </form>
 
-                    <a class="is-hidden-mobile brand is-uppercase has-text-weight-bold has-text-dark" href="index.html">Avenue Fashion</a>
+                    <a class="is-hidden-mobile brand is-uppercase has-text-weight-bold has-text-dark" href="index.html">Vestite</a>
                     <ul class="nav-menu-ul">
                         <li class="nav-menu-item" id="men">
                             <a class="nav-menu-link link-submenu active" href="#">Hombre 
@@ -55,7 +55,7 @@
                                                 <li class="nav-menu-item"><a class="nav-menu-link" href="#">Pantalones</a></li>
                                                 <li class="nav-menu-item"><a class="nav-menu-link" href="#">Camisetas</a></li>
                                             </ul>
-                                        </li>
+                                       </li>
                                     </ul>
                                     <ul class="sub-menu-ul">
                                         <li class="nav-menu-item">
@@ -123,15 +123,8 @@
                 </nav>
             </nav>
         </header>
-        <!-- Banner -->
-        <div class="banner banner-cover">
-            <div class="banner-container ">
-                <h1 class="title-cover">AVE</h1>
-                <a class="btn btn-default">Comprar colección para Hombres</a>
-            </div>
-        </div>
 
-        <!-- Barra de navegacion secundaria -->
+        <!-- Barra de navegacion secundaria 
         <div class="container">
             <nav class="nav">
                 <a class="nav-item active has-text-weight-semibold" href="#">Popular</a>
@@ -140,7 +133,8 @@
                 <a class="nav-item has-text-weight-semibold" href="#">Ofertas</a>
                 <a class="nav-item has-text-weight-semibold" href="#">Muy pronto</a>
             </nav>
-        </div>
+        </div> Creo que por ahora no hace falta-->
+
         <!-- Sección de fotografías -->
         <div class="container">
             <div class="columns is-multiline">
@@ -284,60 +278,7 @@
             </div>
         </div>
     </div>
-    <div class="container container-full">
-    <div class="columns is-centered is-multiline">
-        <div class="column is-full">
-            <div class="separator"></div>
-        </div>
-        <div class="column is-half-tablet is-one-third-desktop column-half">
-            <div class="card card-second">
-                <img class="card-second-image" src="img/lookbook-men.png" alt="">
-                <div class="card-second-body --text-right">
-                    <h1 class="has-text-right is-size-4 has-text-weight-semibold-bold">Catálogo para hombres</h1>
-                    <p class="has-text-right">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Voluptatum labore quae reiciendis, corrupti debitis dicta
-                    </p>
-                    <div>
-                        <a href="#" class="btn btn-default is-size-7">Ver ahora</a>
-                    </div>
-                    </p>
-                    
-                    
-                </div>
-            </div>
-        </div>
-        <div class="column is-half-tablet is-one-third-desktop column-half">
-            <div class="card card-second">
-                <img class="card-second-image" src="img/lookbook-women.png" alt="">
-                <div class="card-second-body --text-right">
-                    <h1 class="has-text-right is-size-4 has-text-weight-semibold-bold">Catálogo para hombres</h1>
-                    <p class="has-text-right">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Voluptatum labore quae reiciendis, corrupti debitis dicta
-                    </p>
-                    <div>
-                        <a href="#" class="btn btn-default is-size-7">Ver ahora</a>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <div class="column is-half-tablet is-one-third-desktop">
-            <div class="card card-second">
-                <img class="card-second-image" src="img/lookbook-you.png" alt="">
-                <div class="card-second-body --text-right">
-                    <h1 class="has-text-right is-size-4 has-text-weight-semibold-bold">Catálogo para hombres</h1>
-                    <p class="has-text-right">Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Voluptatum labore quae reiciendis, corrupti debitis dicta
-                    </p>
-                    <div>
-                        <a href="#" class="btn btn-default is-size-7">Ver ahora</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
     <script src="js/main.js"></script>
-    </div>
+</div>
 
 </asp:Content>
