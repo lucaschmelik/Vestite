@@ -12,6 +12,7 @@ namespace Vestite.BE
         {
             Nombre = sNombre;
             Contraseña = sContraseña;
+            lstPermisos = new List<AbstractComponent>();
         }
 
         public string Nombre { get; set; }
