@@ -11,3 +11,16 @@ C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csproj.C
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csproj.CopyComplete
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.dll
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csproj.CoreCompileInputs.cache
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csprojAssemblyReference.cache
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.BLL.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.BLL.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.BE.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.DAL.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.Servicios.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.BE.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.DAL.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.Servicios.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csproj.CopyComplete
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.pdb

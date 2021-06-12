@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="BitacoraUI.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -183,6 +184,13 @@
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="BitacoraUI.aspx.cs">
+      <DependentUpon>BitacoraUI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BitacoraUI.aspx.designer.cs">
+      <DependentUpon>BitacoraUI.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -247,6 +255,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Vestite.BE\Vestite.BE.csproj">
+      <Project>{f066161b-20a1-47b6-b4b6-74d9d088b778}</Project>
+      <Name>Vestite.BE</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Vestite.BLL\Vestite.BLL.csproj">
       <Project>{b7c0efec-aaca-4a50-b124-421e565d6ad8}</Project>
       <Name>Vestite.BLL</Name>

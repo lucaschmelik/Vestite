@@ -7,3 +7,12 @@ C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.C
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CopyComplete
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.dll
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CoreCompileInputs.cache
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csprojAssemblyReference.cache
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.DAL.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.DAL.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.BE.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.BE.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CopyComplete
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.pdb

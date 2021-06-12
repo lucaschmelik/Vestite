@@ -3,3 +3,9 @@ C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\bin\Debug\Vestite.BE.pdb
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.csproj.CoreCompileInputs.cache
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.dll
 C:\Users\Pato\Desktop\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.csproj.CoreCompileInputs.cache
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.csprojAssemblyReference.cache
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BE\bin\Debug\Vestite.BE.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BE\bin\Debug\Vestite.BE.pdb
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.dll
+D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BE\obj\Debug\Vestite.BE.pdb
