@@ -5,40 +5,19 @@
     <link rel="stylesheet" href="css/material-design-iconic-font.css"/>
     <link rel="stylesheet" href="css/styles.css"/>
     <header>
-            <nav class="navbar-top">
-             <ul class="navbar-top-ul">
-                    <li class="navbar-top-item">
-                        <a href="login.html" class="navbar-top-links">Registro</a>
-                  </li>
-                    <li class="navbar-top-item">
-                        <a href="login.html" class="navbar-top-links">Iniciar sesión</a>
-                    </li>
-                    <li class="navbar-top-item">
-                         <a href="#" class="navbar-top-links">
-                            <i class="zmdi zmdi-shopping-cart"></i> Carrito
-                            <!-- <i class="zmdi zmdi-chevron-down"></i> -->
-                        </a>
-                    </li>
-                </ul>
-            </nav>
-            <nav class="navbar">
-                <header class="nabvar-mobile is-size-5-mobile">
-                    <a class="navbar-mobile-link has-text-white" href="#" id="btn-mobile"><i class="zmdi zmdi-menu"></i></a>
-                    <a class="navbar-mobile-link has-text-white" href="index.html">Vestite</a>
-                    <a class="navbar-mobile-link has-text-white" href="#"><i class="zmdi zmdi-shopping-cart"></i> Vacio</a>
-                </header>
-                <nav class="nav-menu" id="mySidenav">
-                    <form class="form-group " action="#">
-                        <div class="form-group-container">
-                            <span class="form-group-icon"><i class="zmdi zmdi-search"></i></span>
-                            <input type="text" class="form-group-input" placeholder="Buscar...">
-                         </div>
-                    </form>
+        <nav class="navbar">
+            <nav class="nav-menu" id="mySidenav">
+                <form class="form-group " action="#">
+                    <div class="form-group-container">
+                        <span class="form-group-icon"><i class="zmdi zmdi-search"></i></span>
+                        <input type="text" class="form-group-input" placeholder="Buscar...">
+                     </div>
+                </form>
 
-                    <a class="is-hidden-mobile brand is-uppercase has-text-weight-bold has-text-dark" href="index.html">Vestite</a>
+                    <a class="is-hidden-mobile brand is-uppercase has-text-weight-bold has-text-dark" style="padding-top: 15px" href="Default.aspx">Vestite</a>
                     <ul class="nav-menu-ul">
                         <li class="nav-menu-item" id="men">
-                            <a class="nav-menu-link link-submenu active" href="#">Hombre 
+                            <a class="nav-menu-link link-submenu active" href="#">Hombre  
                                 <i class="zmdi zmdi-chevron-down"></i></a>
                                 <div class="container-sub-menu">
                                     <ul class="sub-menu-ul">
@@ -69,14 +48,10 @@
                                             </ul>
                                         </li>
                                     </ul>
-                                    <div class="ads is-hidden-touch">
-                                        <h1 class="ads-h1">Ofertas de Verano</h1>
-                                        <h2 class="ads-h2">Desde el 50% de descuento</h2>
-                                    </div>
                                 </div>
                         </li>
                         <li class="nav-menu-item" id="women">
-                            <a href="#" class="nav-menu-link link-submenu">Mujer <i class="zmdi zmdi-chevron-down"></i> </a>
+                            <a href="#" class="nav-menu-link link-submenu">Mujer  <i class="zmdi zmdi-chevron-down"></i> </a>
                             <div class="container-sub-menu"> 
 
                                 <ul class="sub-menu-ul">
@@ -107,20 +82,15 @@
                                         </ul>
                                     </li>
                                 </ul>
-                                <div class="ads is-hidden-touch">
-                                    <h1 class="ads-h1">Ofertas de Verano</h1>
-                                    <h2 class="ads-h2">Desde el 50% de descuento</h2>
-                                </div>
                             </div> 
                         </li>
-                        <li class="nav-menu-item"><a href="brand.html" class="nav-menu-link">La Marca</a></li>
-                        <li class="nav-menu-item"><a href="lookbook.html" class="nav-menu-link">Look Book</a></li>
-                        <li class="nav-menu-item"><a href="login.html" class="nav-menu-link">Registro</a></li>
-                        <li class="nav-menu-item"><a href="login.html" class="nav-menu-link">Iniciar Sesión</a></li>
+                        <li class="nav-menu-item"><a href="Carrito.aspx" class="nav-menu-link">Carrito</a></li>
+                        <li class="nav-menu-item"><a href="Login.aspx" class="nav-menu-link">Iniciar Sesión</a></li>
+                        <li class="nav-menu-item"><a href="Bitacora.aspx" class="nav-menu-link">Bitácora</a></li>
                     </ul>
                 </nav>
             </nav>
-        </header>
+    </header>
 
     <div class="container">
         <div class="columns">
@@ -128,7 +98,7 @@
                     <h2 class="is-size-4">Iniciar seción</h2>
                         <p>
                             Usuario:
-                            <asp:TextBox ID="txtUsuario" runat="server" type="email" placeholder="Email" class="form-control-field error"></asp:TextBox>
+                            <asp:TextBox ID="txtUsuario" runat="server" type="text" placeholder="Email" class="form-control-field error"></asp:TextBox>
                         </p>
                         <p>
                             CONTRASEÑA:
