@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="css/bulma.min.css">
         <link rel="stylesheet" href="css/material-design-iconic-font.css">
         <link rel="stylesheet" href="css/styles.css">
-                    <!-- Barra de navegación -->
+        <!-- Barra de navegación -->
         <header>
             <nav class="navbar">
                 <nav class="nav-menu" id="mySidenav">
@@ -16,7 +16,7 @@
                          </div>
                     </form>
 
-                    <a class="is-hidden-mobile brand is-uppercase has-text-weight-bold has-text-dark" style="padding-top: 15px" href="index.html">Vestite</a>
+                    <a class="is-hidden-mobile brand is-uppercase has-text-weight-bold has-text-dark" style="padding-top: 15px" href="Default.aspx">Vestite</a>
                     <ul class="nav-menu-ul">
                         <li class="nav-menu-item" id="men">
                             <a class="nav-menu-link link-submenu active" href="#">Hombre 
@@ -87,13 +87,10 @@
                             </div> 
                         </li>
                         <li class="nav-menu-item">
-                            <a href="#" class="nav-menu-link">
-                            <i class="zmdi zmdi-shopping-cart"></i> Carrito
-                            <!-- <i class="zmdi zmdi-chevron-down"></i> -->
-                        </a>
-                        </li>
-                        <li class="nav-menu-item"><a href="login.html" class="nav-menu-link">Registro</a></li>
-                        <li class="nav-menu-item"><a href="login.html" class="nav-menu-link">Iniciar Sesión</a></li>
+                        <li class="nav-menu-item"><a href="Carrito.aspx" class="nav-menu-link">Carrito</a></li>
+                        <li class="nav-menu-item"><a href="Login.aspx" class="nav-menu-link">Registro</a></li>
+                        <li class="nav-menu-item"><a href="Login.aspx" class="nav-menu-link">Iniciar Sesión</a></li>
+                        <li class="nav-menu-item"><a href="Bitacora.aspx" class="nav-menu-link">Bitácora</a></li>
                     </ul>
                 </nav>
             </nav>
@@ -118,10 +115,6 @@
                                     <div class="card-buttons">
                                         <a href="#" class="btn btn--mini-rounded"><i
                                                 class="zmdi zmdi-shopping-cart"></i></a>
-                                        <a href="#" class="btn btn--mini-rounded"><i
-                                                class="zmdi zmdi-favorite-outline"></i></a>
-                                        <a href="producto.html" class="btn btn--mini-rounded"><i
-                                                class="zmdi zmdi-eye"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -139,10 +132,6 @@
                                     <div class="card-buttons">
                                         <a href="#" class="btn btn--mini-rounded"><i
                                                 class="zmdi zmdi-shopping-cart"></i></a>
-                                        <a href="#" class="btn btn--mini-rounded"><i
-                                                class="zmdi zmdi-favorite-outline"></i></a>
-                                        <a href="producto.html" class="btn btn--mini-rounded"><i
-                                                class="zmdi zmdi-eye"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -162,10 +151,6 @@
                                 <div class="card-buttons">
                                     <a href="#" class="btn btn--mini-rounded"><i
                                             class="zmdi zmdi-shopping-cart"></i></a>
-                                    <a href="#" class="btn btn--mini-rounded"><i
-                                            class="zmdi zmdi-favorite-outline"></i></a>
-                                    <a href="producto.html" class="btn btn--mini-rounded"><i
-                                            class="zmdi zmdi-eye"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -188,10 +173,6 @@
                                 <div class="card-buttons">
                                     <a href="#" class="btn btn--mini-rounded"><i
                                             class="zmdi zmdi-shopping-cart"></i></a>
-                                    <a href="#" class="btn btn--mini-rounded"><i
-                                            class="zmdi zmdi-favorite-outline"></i></a>
-                                    <a href="producto.html" class="btn btn--mini-rounded"><i
-                                            class="zmdi zmdi-eye"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -209,10 +190,6 @@
                                 <div class="card-buttons">
                                     <a href="#" class="btn btn--mini-rounded"><i
                                             class="zmdi zmdi-shopping-cart"></i></a>
-                                    <a href="#" class="btn btn--mini-rounded"><i
-                                            class="zmdi zmdi-favorite-outline"></i></a>
-                                    <a href="producto.html" class="btn btn--mini-rounded"><i
-                                            class="zmdi zmdi-eye"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -230,10 +207,6 @@
                                 <div class="card-buttons">
                                     <a href="#" class="btn btn--mini-rounded"><i
                                             class="zmdi zmdi-shopping-cart"></i></a>
-                                    <a href="#" class="btn btn--mini-rounded"><i
-                                            class="zmdi zmdi-favorite-outline"></i></a>
-                                    <a href="producto.html" class="btn btn--mini-rounded"><i
-                                            class="zmdi zmdi-eye"></i></a>
                                 </div>
                             </div>
                         </div>
