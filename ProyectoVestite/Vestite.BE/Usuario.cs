@@ -17,5 +17,7 @@ namespace Vestite.BE
         public string Nombre { get; set; }
 
         public string Contraseña { get; set; }
+
+        public List<AbstractComponent> lstPermisos { get; }
     }
 }

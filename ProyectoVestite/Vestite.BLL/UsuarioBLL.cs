@@ -30,6 +30,8 @@ namespace Vestite.BLL
             if (_oUsuarioDAL.GetOne().Contraseña != _oUsuario.Contraseña) throw new Exception("Ingreso la contraseña incorrecta");
 
             SessionManager.Session.Login(_oUsuario);
+
+            SessionManager.CargarPermisos(_oUsuario);
         }
     }
 }

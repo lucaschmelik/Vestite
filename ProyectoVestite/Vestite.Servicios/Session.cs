@@ -30,5 +30,10 @@ namespace Vestite.Servicios
         {
             return _oUsuario != null;
         }
+
+        public void AgregarPermiso(AbstractComponent oComponente)
+        {
+            _oUsuario.lstPermisos.Add(oComponente);
+        }
     }
 }

@@ -7,7 +7,7 @@ using Vestite.BE;
 
 namespace Vestite.DAL
 {
-    public class UsuarioDAL
+    public class UsuarioDAL : AbstractDAL
     {
         public Usuario _oUsuario;
 

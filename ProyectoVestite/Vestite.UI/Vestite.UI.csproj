@@ -251,6 +251,10 @@
       <Project>{b7c0efec-aaca-4a50-b124-421e565d6ad8}</Project>
       <Name>Vestite.BLL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Vestite.Servicios\Vestite.Servicios.csproj">
+      <Project>{89584449-a5c2-418d-bcc1-f7990ff044d0}</Project>
+      <Name>Vestite.Servicios</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

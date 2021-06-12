@@ -50,6 +50,10 @@
       <Project>{f066161b-20a1-47b6-b4b6-74d9d088b778}</Project>
       <Name>Vestite.BE</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Vestite.DAL\Vestite.DAL.csproj">
+      <Project>{d638cb66-dbf8-43c4-b06c-6de39139a8f4}</Project>
+      <Name>Vestite.DAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

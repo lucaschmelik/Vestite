@@ -41,6 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractComponent.cs" />
+    <Compile Include="Familia.cs" />
+    <Compile Include="Patente.cs" />
+    <Compile Include="PermisoEnum.cs" />
     <Compile Include="Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
