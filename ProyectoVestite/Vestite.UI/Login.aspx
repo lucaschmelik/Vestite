@@ -85,7 +85,6 @@
                             </div> 
                         </li>
                         <li class="nav-menu-item"><a href="Carrito.aspx" class="nav-menu-link">Carrito</a></li>
-                        <li class="nav-menu-item"><a href="Login.aspx" class="nav-menu-link">Registro</a></li>
                         <li class="nav-menu-item"><a href="Login.aspx" class="nav-menu-link">Iniciar Sesión</a></li>
                         <li class="nav-menu-item"><a href="Bitacora.aspx" class="nav-menu-link">Bitácora</a></li>
                     </ul>
