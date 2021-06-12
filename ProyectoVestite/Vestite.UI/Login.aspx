@@ -107,7 +107,7 @@
                         <p style="margin-left: 80px">
                             <asp:Button ID="Button1" runat="server" OnClick="btnIngresar_Click" Text="INGRESAR" />
                         </p>
-                        <div class="column">
+                        <!--<div class="column">
                             <h2 class="is-size-4">Registro</h2>
                             <p>
                                 Usuario:
@@ -124,7 +124,7 @@
                             <p style="margin-left: 80px">
                                 <asp:Button ID="Button2" runat="server" OnClick="btnIngresar_Click" Text="INGRESAR" />
                             </p>
-                        </div>
+                        </div>-->
                 </div>
             </div>
         </div>
