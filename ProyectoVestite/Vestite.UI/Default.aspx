@@ -90,7 +90,9 @@
                             </li>
                             <li class="nav-menu-item"><asp:HyperLink ID="hpCarrito" runat="server" class="nav-menu-link" href="Carrito.aspx">Carrito</asp:HyperLink></li>
                             <li class="nav-menu-item"><asp:HyperLink ID="hpIniciarSesion" runat="server" class="nav-menu-link" href="Login.aspx">Iniciar Sesión</asp:HyperLink></li>
-                            <li class="nav-menu-item"><asp:HyperLink ID="hpBitacora" runat="server" class="nav-menu-link" href="Bitacora.aspx">Bitácora</asp:HyperLink></li>
+                            <li class="nav-menu-item"><asp:HyperLink ID="hpBitacora" runat="server" class="nav-menu-link" href="BitacoraUI.aspx">Bitácora</asp:HyperLink></li>
+                            <li class="nav-menu-item"><asp:LinkButton  ID="hpCerrarSesion" OnClick="hpCerrarSesion_OnClick" runat="server" class="nav-menu-link" href="Default.aspx">Cerrar sesión</asp:LinkButton></li>
+
                         </ul>
                     </nav>
                 </nav>

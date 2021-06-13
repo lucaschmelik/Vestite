@@ -12,7 +12,24 @@ namespace Vestite.UI
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (!SessionManager.Session.IsLogged())
+            {
+                hpBitacora.Visible = false;
+                hpCerrarSesion.Visible = false;
+            }
+            else
+            {
+                hpIniciarSesion.Visible = false;
+                hpCerrarSesion.Visible = true;
+            }
+        }
 
+        protected void hpCerrarSesion_OnClick(object sender, EventArgs e)
+        {
+            hpIniciarSesion.Visible = true;
+            hpCerrarSesion.Visible = false;
+            hpBitacora.Visible = false;
+            SessionManager.Session.Logout();
         }
     }
 }

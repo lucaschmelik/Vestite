@@ -4,7 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Vestite.BE;
 using Vestite.BLL;
+using Vestite.Servicios;
 
 namespace Vestite.UI
 {
@@ -15,7 +17,8 @@ namespace Vestite.UI
 
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (SessionManager.Session.IsLogged()) return;
+            hpBitacora.Visible = false;
         }
 
         protected void btnIngresar_Click(object sender, EventArgs e)
@@ -26,7 +29,7 @@ namespace Vestite.UI
 
                 oUsuarioBLL.Login();
 
-                ClientScript.RegisterStartupScript(this.GetType(), "myalert", "alert('SALIO BIEN');", true);
+                BitacoraService.Escribir(TipoEvento.MENSAJE, "Se logeo en el sistema");
 
                 Response.Redirect("Default.aspx");
             }

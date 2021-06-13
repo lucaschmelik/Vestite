@@ -35,7 +35,7 @@ namespace Vestite.DAL
             {
                 {"Nombre", oBT.Nombre},
                 {"Mensaje", oBT.Mensaje},
-                {"TipoEvento", oBT.TipoEvento}
+                {"TipoEvento", (int)oBT.TipoEvento}
             };
 
             EjecutaStp("stpInsertarBitacora", oDicParametros, new DataTable());
