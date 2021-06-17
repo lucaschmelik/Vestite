@@ -13,18 +13,18 @@ namespace Vestite.UI
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!SessionManager.Session.IsLogged())
-            {
-                hpBitacora.Visible = false;
-                hpCerrarSesion.Visible = false;
-            }
-            else
+            if (SessionManager.Session.IsLogged())
             {
                 hpIniciarSesion.Visible = false;
                 hpCerrarSesion.Visible = true;
             }
-        }
+            if(SessionManager.Session.Usuario != null)
+            {
 
+            if (SessionManager.TienePermiso(PermisoEnum.Bitacora, SessionManager.Session.Usuario.lstPermisos)) hpBitacora.Visible = true;
+            }
+
+        }
         protected void hpCerrarSesion_OnClick(object sender, EventArgs e)
         {
             hpIniciarSesion.Visible = true;
@@ -34,4 +34,5 @@ namespace Vestite.UI
             SessionManager.Session.Logout();
         }
     }
-}
+
+ }

@@ -55,15 +55,19 @@ namespace Vestite.Servicios
             }
         }
 
-        //public void VerificarPermisos(MenuStrip oMenuStrip)
-        //{
-        //    foreach (ToolStripMenuItem oComponenteMenu in oMenuStrip.Items)
-        //    {
-        //        if (oComponenteMenu.Tag != null)
-        //        {
-        //            oComponenteMenu.Visible = Session.TienePermiso((PermisoEnum)Enum.GetValues(typeof(PermisoEnum)).GetValue(int.Parse(oComponenteMenu.Tag.ToString()) - 1), Session.ObtenerListaPermisos());
-        //        }
-        //    }
-        //}
+        public static bool TienePermiso(PermisoEnum oPermiso, IList<AbstractComponent> lstPermisos)
+        {
+            foreach (var oComponente in lstPermisos)
+            {
+                if (oComponente.Permiso == oPermiso) return true;
+
+                if (oComponente.lstHijos == null) continue;
+
+                if (TienePermiso(oPermiso, oComponente.lstHijos))
+                    return true;
+            }
+
+            return false;
+        }
     }
 }
