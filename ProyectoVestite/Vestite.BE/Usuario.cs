@@ -8,6 +8,10 @@ namespace Vestite.BE
 {
     public class Usuario
     {
+        public Usuario()
+        {
+        }
+
         public Usuario(string sNombre, string sContraseña)
         {
             Nombre = sNombre;
