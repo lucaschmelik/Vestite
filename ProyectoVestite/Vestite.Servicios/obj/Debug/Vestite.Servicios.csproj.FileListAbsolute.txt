@@ -18,3 +18,14 @@ D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.Servicios\bin\Debug\
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.csproj.CopyComplete
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.dll
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.Servicios.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.Servicios.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.BE.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.DAL.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.BE.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\bin\Debug\Vestite.DAL.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.csprojAssemblyReference.cache
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.csproj.CopyComplete
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.Servicios\obj\Debug\Vestite.Servicios.pdb

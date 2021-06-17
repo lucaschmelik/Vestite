@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using Vestite.BE;
 using Vestite.Servicios;
 
 namespace Vestite.UI
@@ -29,6 +30,7 @@ namespace Vestite.UI
             hpIniciarSesion.Visible = true;
             hpCerrarSesion.Visible = false;
             hpBitacora.Visible = false;
+            BitacoraService.Escribir(TipoEvento.MENSAJE, "Se deslogeo del sistema");
             SessionManager.Session.Logout();
         }
     }

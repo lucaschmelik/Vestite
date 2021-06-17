@@ -16,3 +16,12 @@ D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestit
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CopyComplete
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.dll
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.DAL.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.DAL.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.BE.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\bin\Debug\Vestite.BE.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csprojAssemblyReference.cache
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.csproj.CopyComplete
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.DAL\obj\Debug\Vestite.DAL.pdb

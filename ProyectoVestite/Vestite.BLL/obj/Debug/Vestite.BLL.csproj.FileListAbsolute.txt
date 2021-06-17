@@ -24,3 +24,16 @@ D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestit
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csproj.CopyComplete
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.dll
 D:\Desktop\LPPA\Vestite COD\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.BLL.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.BLL.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.BE.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.DAL.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.Servicios.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.BE.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.DAL.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\bin\Debug\Vestite.Servicios.pdb
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csprojAssemblyReference.cache
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.csproj.CopyComplete
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.dll
+C:\Users\Pato\Desktop\Facultad\4 Año\Lenguajes de Programación Para la Administración\Vestite\ProyectoVestite\Vestite.BLL\obj\Debug\Vestite.BLL.pdb
